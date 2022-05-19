@@ -1,7 +1,9 @@
+import Hexmap from "./components/Hex/Hexmap";
+
 function App() {
   return (
     <div>
-      Hello World
+      <Hexmap />
     </div>
   );
 }
